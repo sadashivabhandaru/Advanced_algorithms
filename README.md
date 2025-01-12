@@ -1,2 +1,1 @@
-# Advance_algorithms
- 
+This is an assignment for the subject Advanced Algorithms
